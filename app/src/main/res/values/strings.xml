@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BT2</string>
+    <!--<string-array name="Catalogue">-->
+       <!--<item>-->
+           <!--TopAttractions-->
+       <!--</item>-->
+        <!--<item>-->
+            <!--Diving-->
+       <!--</item>-->
+        <!--<item>-->
+            <!--NightLife-->
+       <!--</item>-->
+    <!--</string-array>-->
+</resources>
